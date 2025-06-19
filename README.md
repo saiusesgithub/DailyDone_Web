@@ -18,9 +18,6 @@ DailyDone is a sleek, dark-themed **Todo List + Habit Tracker** built using Flut
 
 ## 📸 Screenshots
 
-### 🧠 Home Screen
-![Home](screenshots/home.png)
-
 ### ✔️ Todo List
 ![Todo](screenshots/todo.png)
 
@@ -29,6 +26,14 @@ DailyDone is a sleek, dark-themed **Todo List + Habit Tracker** built using Flut
 
 ### 📈 Habit Tracker with Streaks
 ![Habits](screenshots/habits.png)
+
+### Settings With Accent Color Choice 
+![Settings](screenshots/settings.png)
+
+### About
+![About](screenshots/about.png)
+
+
 
 ---
 
@@ -63,7 +68,3 @@ This project is open source and available under the MIT License.
 ## 🙌 Author
 
 Made with 💙 by @saiusesgithub
----
-After placing your screenshots:
-2. Add the images like `home.png`, `todo.png`, `habits.png`
-3. Commit & push
