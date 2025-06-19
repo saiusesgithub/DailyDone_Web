@@ -65,6 +65,5 @@ This project is open source and available under the MIT License.
 Made with 💙 by @saiusesgithub
 ---
 After placing your screenshots:
-1. Create a `screenshots/` folder in the repo root
 2. Add the images like `home.png`, `todo.png`, `habits.png`
 3. Commit & push
